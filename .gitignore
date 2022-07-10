@@ -1,0 +1,9 @@
+# common
+.DS_Store
+
+# vscode
+.idea
+
+# bin
+jedi
+
