@@ -67,7 +67,7 @@ func main() {
 
 ## Architecture
 
-![jedi.jpg](https://github.com/i0Ek3/jedi/blob/main/media/jedi.jpg)
+![jedi.jpg](https://github.com/i0Ek3/jedi/blob/mater/drawio/jedi.jpg)
 
 
 ## Coding Rule
