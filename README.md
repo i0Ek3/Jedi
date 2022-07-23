@@ -16,7 +16,7 @@ First stage, jedi will implement basic function, make sure this stuff avaiable. 
 
 ### Usage
 
-```console
+```shell
 » ./jedi -h
 Usage of ./jedi:
   -keyword string
@@ -25,23 +25,6 @@ Usage of ./jedi:
     	how many matched items shows here (default 20)
 
 » ./jedi -keyword="social" -limit=10
-
-```
-
-### Install
-
-`go get github.com/i0Ek3/jedi`
-
-### Import 
-
-```
-import (
-    "github.com/i0Ek3/jedi"
-)
-
-func main() {
-    //...
-}
 ```
 
 
@@ -67,7 +50,7 @@ func main() {
 
 ## Architecture
 
-![jedi.jpg](https://github.com/i0Ek3/jedi/blob/mater/drawio/jedi.jpg)
+![jedi.jpg](https://github.com/i0Ek3/jedi/blob/master/drawio/jedi.jpg)
 
 
 ## Coding Rule
